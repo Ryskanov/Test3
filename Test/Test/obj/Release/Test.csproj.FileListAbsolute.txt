@@ -1,0 +1,12 @@
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\bin\Release\TestDB.mdf
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\bin\Release\TestDB_log.ldf
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\bin\Release\Test.exe.config
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\bin\Release\Test.exe
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\bin\Release\Test.pdb
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.Form1.resources
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.csproj.GenerateResource.cache
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.exe
+C:\Users\Ildar\Desktop\Test\Test\Test\Test\obj\Release\Test.pdb
